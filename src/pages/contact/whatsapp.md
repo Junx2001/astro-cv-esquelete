@@ -1,5 +1,5 @@
 ---
 title: Whatsapp
 icon: carbon:phone
-url: https://github.com/Junx2001
+url: https://wa.me/261349140702
 ---
